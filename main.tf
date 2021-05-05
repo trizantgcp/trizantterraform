@@ -1,3 +1,3 @@
 module "vminstance" {
-    source = "vm"
+    source = "./vm"
   }

@@ -6,12 +6,12 @@
 
  variable "gcpregion" {
      type = string
-     default = "eu-north1"
+     default = "europe-north1"
      description = "GCP Region"
  }
 
  variable "gcpzone" {
      type = string
-     default = "eu-north1-a"
+     default = "europe-north1-a"
      description = "GCP Zone"
  }
