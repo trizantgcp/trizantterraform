@@ -1,6 +1,6 @@
  variable "project_id" {
      type = string
-     default = trizant-dev
+     default = "trizant-dev"
      description = "GCP Project ID"
  }
 
