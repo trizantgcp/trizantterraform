@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trizant-test",
+  "private_key_id": "5b40055691fc92eebde4350e071b8435d59e95dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOTNcXUpquXuRg\n6r/Ox7OpqKgipaz61K3BsjywTIHZeqadjD4AC7MJ5TtLE5sFxhYcKjmmWudptITx\nB8wgzw5N8w1KCYlP7tXE95brJPt8dCtDPcVrMmeQteTGMpruMq4dbW80i8jGeA3v\nWmCQMkwzjEAdO8dUCVY9cuOpdjd40ahOZYggQ8Hl4ND1XwLugM9/Nur7ymmbgheM\nLyPdfq4RAuzTQtl/ZcAERN3KcTBT5n50xCsDpmqK22MlmC0wlB1Jy8451k9uSS1f\nqrZ9QDgJhM6jN0YhE83dz/JnTT72kqQEKQx15qeWYYqquHLQf3SER8N5v4oEOpov\nKiuyD+xNAgMBAAECggEAJldtJWpGkdBUkTen8OI4P7i3EQNqMA8dgRGjil+ZxYXw\nV/kj38XM33Kxb61j4zGS0+a8IrEj78craxGYLGPXJIEe7+rwUIESzWH3tFnB/Lop\nfTyKh7cNPP21WGm41jroldMMNz+gj9RpwJmzNzGF7JGtK9G7pOB8XPzQl6L/Qc6e\nBKtdncwbY16tNCYb9SQRBNx2nwqFEOKzbAlZn2RRxgdqCa0MEpN2+dJPrVm9moTS\n3NUmqzQ+SzGOZYzwXY+HrBR7B9qXBT2oK4DNXLORZwnk/xqXcgkEE9Dn18fBxuqP\nwc4Zz5y8k/PysdNDw60hbK42j70hxNrflfc40GpvOQKBgQDu58zdMMW7ZKSDESkp\nWfv38cy1O9PTtVcusCJv/DbgjjbM4gFtDNMZws9ykhdzDTRNs1mFYWV3ss6J8w8s\n+BxlhJyR7BGq3v2EnYqd2w0D/k6ejKLjohsn9CM4q4D+cZWeqRqK4PciWQE4r4gY\nWd9F/7AD9nL1gYuOqOgckT6aWQKBgQDdD8kUwYBCiBtiRDZaI8ZK9NvY75dqW5kX\n5FyTqldzwiFKxOltlyXjKf3gNhvP1vvOpFaiCEZvK3jp95xFQhyXTQtl7sQSneuK\nzghOngeMKHDiVAiISySCcEWgHUvqy6HLpjqtc5x1xaS9cvl2xSZYe83z5nzfizAK\nvrMeGFj7FQKBgQDnirctxSBOz2r2MIKhNjoTg0EwgUx6yi017bViraIOHycTiRNy\nulQ6iml+FAMwGaMQj3t63vt1eFHetziFD+6NoWoRrycsYTR5/ColdfD2ZtmRpqIU\nVr9VCLO+L9I0SKeG/0PfR8udeX/Kja0sVKYldHsGTCv8r1IvsJpNXaO7+QKBgQCG\n0Za/+tcfPGT/BDzlsoW/tx/RaSW+LsjqglJXmH6nUZD+SaNXO+RWa4iy0i0aD7IY\nr69KOKPELw4aGvIKZyyKtekqrHiWJgu95rO4RraxqwRVdAyUGsfUaWZ9JQDk3HX7\nfpCwsh6M0RIMnG86GTiupCrSAhLMPtX4557TzuONlQKBgF1odUz3z/FXEgtk7DmP\n8PenHUyRHfkzxGSz5FvKTrNUhIPMDrHSvWnBhTktpEw1ly/deYnzX6NfEoKqG4g9\n7G3lD2+3AeyKgVVUjvU+IOGOA69spR0ApPZaNG8rDeQ0JBjcPVITjq8EBoxB8FqS\nSsHxHxVnK2l20k+1//TJDzJm\n-----END PRIVATE KEY-----\n",
+  "client_email": "trizant-test-terraform@trizant-test.iam.gserviceaccount.com",
+  "client_id": "105102596596217884499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trizant-test-terraform%40trizant-test.iam.gserviceaccount.com"
+}
