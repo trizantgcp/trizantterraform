@@ -1,5 +1,5 @@
 provider "google" {
-  credentials = file("trizant-test-5b40055691fc.json")
+  credentials = file("trizant-test-d063cf957a53.json")
   project     = var.project_id
   region      = var.gcpregion
   zone        = var.gcpzone
