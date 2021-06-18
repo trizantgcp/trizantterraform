@@ -3,3 +3,4 @@ terraform {
     bucket  = "trizant-tf-state-test"
     prefix  = "terraform/state"
   }
+}
