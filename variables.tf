@@ -22,7 +22,7 @@ variable "instancename" {
 }
 
 variable "instanccount" {
-  default     = "2"
+  default     = "1"
   description = "Instance Count"
 }
 
